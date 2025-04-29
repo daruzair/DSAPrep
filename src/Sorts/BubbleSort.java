@@ -1,6 +1,5 @@
-package BubbleSort;
+package Sorts;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class BubbleSort {
